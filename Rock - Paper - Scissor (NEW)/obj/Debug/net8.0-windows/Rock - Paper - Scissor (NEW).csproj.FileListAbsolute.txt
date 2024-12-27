@@ -1,0 +1,15 @@
+D:\C#_projects\Rock - Paper - Scissor (NEW)\bin\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).exe
+D:\C#_projects\Rock - Paper - Scissor (NEW)\bin\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).deps.json
+D:\C#_projects\Rock - Paper - Scissor (NEW)\bin\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).runtimeconfig.json
+D:\C#_projects\Rock - Paper - Scissor (NEW)\bin\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).dll
+D:\C#_projects\Rock - Paper - Scissor (NEW)\bin\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).pdb
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).AssemblyInfoInputs.cache
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).AssemblyInfo.cs
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).csproj.CoreCompileInputs.cache
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).sourcelink.json
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).dll
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\refint\Rock - Paper - Scissor (NEW).dll
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).pdb
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\Rock - Paper - Scissor (NEW).genruntimeconfig.cache
+D:\C#_projects\Rock - Paper - Scissor (NEW)\obj\Debug\net8.0-windows\ref\Rock - Paper - Scissor (NEW).dll
