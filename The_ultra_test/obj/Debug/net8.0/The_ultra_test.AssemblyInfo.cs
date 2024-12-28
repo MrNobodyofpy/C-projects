@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The_ultra_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2049ff4dcbbddf1a0de2d4ec1fd0af4cc6f9c262")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04bcd1c9d75d67a856fcb39aed532d7fb89ebfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("The_ultra_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The_ultra_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

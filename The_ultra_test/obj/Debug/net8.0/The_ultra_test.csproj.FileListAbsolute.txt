@@ -1,0 +1,15 @@
+D:\C#_projects\The_ultra_test\bin\Debug\net8.0\The_ultra_test.exe
+D:\C#_projects\The_ultra_test\bin\Debug\net8.0\The_ultra_test.deps.json
+D:\C#_projects\The_ultra_test\bin\Debug\net8.0\The_ultra_test.runtimeconfig.json
+D:\C#_projects\The_ultra_test\bin\Debug\net8.0\The_ultra_test.dll
+D:\C#_projects\The_ultra_test\bin\Debug\net8.0\The_ultra_test.pdb
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.AssemblyInfoInputs.cache
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.AssemblyInfo.cs
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.csproj.CoreCompileInputs.cache
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.sourcelink.json
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.dll
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\refint\The_ultra_test.dll
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.pdb
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\The_ultra_test.genruntimeconfig.cache
+D:\C#_projects\The_ultra_test\obj\Debug\net8.0\ref\The_ultra_test.dll
